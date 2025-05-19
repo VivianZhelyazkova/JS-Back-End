@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://media.istockphoto.com/id/1443562748/photo/cute-ginger-cat.jpg?s=612x612&w=0&k=20&c=vvM97wWz-hMj7DLzfpYRmY2VswTqcFEKkC437hxm3Cg=",
+        "name": "Pretty Kitty",
+        "breed": "Bombay Cat",
+        "description": "Dominant and aggressive to other cats. Will probably eat you in your sleep. Very cute tho."
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://media.istockphoto.com/id/1443562748/photo/cute-ginger-cat.jpg?s=612x612&w=0&k=20&c=vvM97wWz-hMj7DLzfpYRmY2VswTqcFEKkC437hxm3Cg=",
+        "name": "Navcho",
+        "breed": "Persian Cat",
+        "description": "A talkative and affectionate cat with striking yellow eyes."
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://media.istockphoto.com/id/1443562748/photo/cute-ginger-cat.jpg?s=612x612&w=0&k=20&c=vvM97wWz-hMj7DLzfpYRmY2VswTqcFEKkC437hxm3Cg=",
+        "name": "Sisa",
+        "breed": "Siamese Cat",
+        "description": "Loves to cuddle and nap. Requires regular grooming for its luxurious coat."
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://media.istockphoto.com/id/1443562748/photo/cute-ginger-cat.jpg?s=612x612&w=0&k=20&c=vvM97wWz-hMj7DLzfpYRmY2VswTqcFEKkC437hxm3Cg=",
+        "name": "Garry",
+        "breed": "Bombay Cat",
+        "description": "Mysterious and elegant. Often found lounging in sunny spots."
+    },
+    {
+        "name": "Avenger Cat",
+        "description": "asdasd",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+        "breed": "Fluffy Cat",
+        "id": 5
+    },
+    {
+        "name": "Test2",
+        "description": "asdasd",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Ultimate_MK3.png/220px-Ultimate_MK3.png",
+        "breed": "Fluffy Cat",
+        "id": 6
+    },
+    {
+        "name": "gfg",
+        "description": "gfg",
+        "imageUrl": "hrhbf",
+        "breed": "Fluffy Cat",
+        "id": null
+    },
+    {
+        "name": "yjkuy",
+        "description": "kul",
+        "imageUrl": "lul",
+        "breed": "Fluffy Cat",
+        "id": null
+    },
+    {
+        "name": "kul",
+        "description": "ulul",
+        "imageUrl": "lil",
+        "breed": "Fluffy Cat",
+        "id": null
+    },
+    {
+        "name": "k,ij",
+        "description": "ykul",
+        "imageUrl": "j,l",
+        "breed": "Fluffy Cat",
+        "id": null
+    },
+    {
+        "name": "olulo",
+        "description": ";o;",
+        "imageUrl": "pl;i",
+        "breed": "Fluffy Cat",
+        "id": null
+    }
+]
